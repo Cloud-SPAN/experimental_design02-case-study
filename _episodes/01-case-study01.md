@@ -1,5 +1,5 @@
 ---
-title: "QC assembly --- Episode 1"
+title: "Case Study 1 --- something great here"
 teaching: 20
 exercises: 10
 questions: 

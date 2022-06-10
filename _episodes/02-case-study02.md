@@ -1,5 +1,5 @@
 ---
-title: "Configure Your AWS Account"
+title: "Case Study 2 --- something great twice"
 teaching: 20
 exercises: 10
 questions:
