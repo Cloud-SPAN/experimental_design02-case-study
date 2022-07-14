@@ -16,14 +16,11 @@ keypoints:
 
 
 # Outline
-What factors can we change to improve the power of a dataset:
+choice of long vs short reads
 
-1.  something
+depends on your research question
 
-2. something
-
-What factors may negatively impact on the usefullness fo your data that you aren't able to control:
-
-1. What are these?
-
-2. What can we do to counteract this?
+if you have a very good reference - short reads fine, can do lots of samples, thus quite a few exp conditions
+if you are doing assemblies - long reads better, then to get depth do few samples
+depends on size of genome and one ploidy
+eg snp calling on bacteria need not be deep, hetero snps on what - need depth
