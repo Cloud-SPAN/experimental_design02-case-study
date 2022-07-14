@@ -3,14 +3,14 @@ title: "Case Study 1 --- something great here"
 teaching: 20
 exercises: 10
 questions:
-- "What things can we can control in an experiment that can influence the power of the dataset?"
-- "What things might limit the usefulness of a dataset that we might not be able to control?"
+- "What platform should we chose?"
+- "What things influence platform choice or design if platform is fixed?"
 objectives:
-- Identify what parts of experimental design we can control, and potential areas that will impact on the usefulness of the data collected, but we have no control over
+- .....
 
 keypoints:
-- There are things that can reduce the usefulness of data collected from a experiment downstream
-- Some of these can be accounted for, others can't be.
+- .....
+- .....
 
 ---
 
