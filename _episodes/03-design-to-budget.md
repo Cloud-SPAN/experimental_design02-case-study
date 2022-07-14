@@ -1,15 +1,19 @@
 ---
-title: "Case Study 3 -- something great thrice"
+title: "Design to budget"
 teaching: 20
 exercises: 10
 questions:
--  "What things might limit the usefulness of a dataset that we might not be able to control?"
+-  "Budget constraints"
 objectives:
-- Identify poor parts of design in a case study
+- Identify best choices when budget is limited
 keypoints:
 - "X,Y,Z are important and should be looked at when deigning experiments"
 
 ---
 
 
-# Case study
+# Budget
+number of samples
+number of reps
+availability of equipment
+might need to amend your question to meet budget
