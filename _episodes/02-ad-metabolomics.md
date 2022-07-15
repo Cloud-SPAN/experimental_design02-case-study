@@ -1,5 +1,5 @@
 ---
-title: "Case Study 2 --- something great twice"
+title: "AD metabolomics example"
 teaching: 20
 exercises: 10
 questions:

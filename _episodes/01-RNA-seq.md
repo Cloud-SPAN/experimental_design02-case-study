@@ -1,5 +1,5 @@
 ---
-title: "Case Study 1 --- something great here"
+title: "RNAseq example"
 teaching: 20
 exercises: 10
 questions:
@@ -15,7 +15,7 @@ keypoints:
 ---
 
 
-# 
+#
 description of system.
 Mice sick vs mouse not sick
 2 mice in each
@@ -23,4 +23,3 @@ Mice sick vs mouse not sick
 
 illumina
 5x coverage
-

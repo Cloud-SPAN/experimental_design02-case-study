@@ -1,5 +1,5 @@
 ---
-title: "Design to budget"
+title: "LTEE example"
 teaching: 20
 exercises: 10
 questions:
