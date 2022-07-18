@@ -17,7 +17,7 @@ keypoints:
 ---
 
 
-#RNAseq experiment looking at the blood transcriptome
+# RNAseq experiment looking at the blood transcriptome
 
 In the experiment outlined in the figure below, a group is interested in identifying differentially expressed genes (DEGs) that occur when mice are injected with an attenuated version of the causative agent of tuberculosis, *Mycobacterium bovis*, with a BCG injection. In order to identify DEGs they have decided on the following experimental plan.
 
