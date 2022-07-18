@@ -23,3 +23,5 @@ Mice sick vs mouse not sick
 
 illumina
 5x coverage
+
+![rnaseq_design](../fig/mouse_diagram.png)
