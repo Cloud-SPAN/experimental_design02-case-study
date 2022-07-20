@@ -8,7 +8,7 @@ questions:
 objectives:
 - Understand the level of replication required.
 - Identify whether there is enough samples to have the statistical power to answer the question.
-- Identify ways to improve experimental rnaseq_design.
+- Identify ways to improve experimental rnaseq design.
 
 keypoints:
 - Biological replication is much more important than technical replication in giving the experimental design power. Technical replication is still better than no replication.  
