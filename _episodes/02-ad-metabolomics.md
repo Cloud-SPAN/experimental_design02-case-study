@@ -31,4 +31,6 @@ There are several methods for quantifying peak intensity in mass spectrometry da
 
 ### Randomisation of sample order
 
-Randomisation in blocks is important. Complete randomisation can result in drift due to accidental severe imbalances in groups. 
+Due to the samples in a mass spec experiment being ran in blocks between standards, it is important to know how this effects the run order of Randomisation in blocks is important. Complete randomisation can result in drift due to accidental severe imbalances in groups. Randomising in blocks rather than completely, or within groups will also reduce drit and between batch variation. Examples of how this would work for an experiment with 12 samples in 3 groups with four replicates is shown in the beneath figure.  
+
+![block_design](../fig/block_design.png)
