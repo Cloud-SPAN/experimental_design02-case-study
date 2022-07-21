@@ -22,7 +22,9 @@ keypoints:
 The following experimental design is shown below. In this experiment metabolite samples were prepared from sewage sludge which has been taken from anaerobic digesters. Anaerobic digestion is the process of using microbes to break down organic material to generate biogas which can be used as a renewable energy source. The samples are prepared to use on a mass spectrometer, which will generate an abundance and the charge/mass ratio for each metabolite it detects. Generating this metabolomic data, or generating other datasets on mass spectrometers often requires liquid chromatography prior to the mass spectrometer, hence you may have heard proteomic/metabolomic data referred to as LCMS data (Liquid chromatography mass spectrometry). Due to the metabolites in this case, or digested proteins in proteomic data, being seperated through liquid chromatography first, we have additional experimental design concerns to consider compared to seqeuncing based experiments.
 
 
-## Insert image here of a design
+**When we have covered the information below on considerations for experimental design think about how you could use this experiment to design the run order of samples. What samples would you use to make the QCs for the samples?**
+
+![AD_design](../fig/AD_samples.png)
 
 ## Interbatch variation in mass spectrometry
 
