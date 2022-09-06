@@ -1,19 +1,17 @@
 ---
-title: "LTEE example"
+title: "_E. coli_ long-term evolution experiment example"
 teaching: 20
 exercises: 10
 questions:
--  "Budget constraints"
+-  "tum tee tums"
 objectives:
-- Identify best choices when budget is limited
+- tum ti tum
 keypoints:
 - "X,Y,Z are important and should be looked at when deigning experiments"
 
 ---
 
 
-# Budget
-number of samples
-number of reps
-availability of equipment
-might need to amend your question to meet budget
+# nn
+
+![A file hierarchy containing with root and home directories labelled](../fig/800px-Lenski's_12_long-term_lines_of_E._coli_on_25_June_2008.jpg){:width="800px"}
