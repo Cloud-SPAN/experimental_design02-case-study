@@ -19,7 +19,7 @@ keypoints:
 
 # Metabolomics data from anerobic digestion
 
-The following experimental design is shown below. In this experiment metabolite samples were prepared from sewage sludge which has been taken from anaerobic digesters. Anaerobic digestion is the process of using microbes to break down organic material to generate biogas which can be used as a renewable energy source. The samples are prepared to use on a mass spectrometer, which will generate an abundance and the charge/mass ratio for each metabolite it detects. Generating this metabolomic data, or generating other datasets on mass spectrometers often requires liquid chromatography prior to the mass spectrometer, hence you may have heard proteomic/metabolomic data referred to as LCMS data (Liquid chromatography mass spectrometry). Due to the metabolites in this case, or digested proteins in proteomic data, being seperated through liquid chromatography first, we have additional experimental design concerns to consider compared to seqeuncing based experiments.
+The following experimental design is shown below. In this experiment metabolite samples were prepared from sewage sludge which has been taken from anaerobic digesters. Anaerobic digestion is the process of using microbes to break down organic material to generate biogas which can be used as a renewable energy source. The samples are prepared to use on a mass spectrometer, which will generate an abundance and the charge/mass ratio for each metabolite it detects. Generating this metabolomic data, or generating other datasets on mass spectrometers often requires liquid chromatography prior to the mass spectrometer, hence you may have heard proteomic/metabolomic data referred to as LCMS data (Liquid chromatography mass spectrometry). Due to the metabolites in this case, or digested proteins in proteomic data, being seperated through liquid chromatography first, we have additional experimental design concerns to consider compared to sequencing based experiments.
 
 
 **When we have covered the information below on considerations for experimental design think about how you could use this experiment to design the run order of samples. What samples would you use to make the QCs for the samples?**
@@ -36,7 +36,7 @@ There are several methods for quantifying peak intensity in mass spectrometry da
 
 ## Randomisation of sample order
 
-Due to the samples in a mass spec experiment being ran in blocks between QCs, it is important to know how this effects the run order. Randomisation in blocks is important. Complete randomisation can result in drift due to accidental severe imbalances in run order. Randomising in blocks rather than completely, or within groups will also reduce drit and between batch variation. Examples of how this would work for an experiment with 12 samples in 3 groups with four replicates is shown in the beneath figure.  
+Due to the samples in a mass spec experiment being ran in blocks between QCs, it is important to know how this effects the run order. Randomisation in blocks is important. Complete randomisation can result in drift due to accidental severe imbalances in run order. Randomising in blocks rather than completely, or within groups will also reduce drift and between batch variation. Examples of how this would work for an experiment with 12 samples in 3 groups with four replicates is shown in the beneath figure.  
 
 ![block_design](../fig/block_design.png)
 
