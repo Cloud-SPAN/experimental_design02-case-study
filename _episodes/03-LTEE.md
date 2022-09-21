@@ -5,7 +5,9 @@ exercises: 10
 questions:
 -  "Are all experiments experimental?"
 - "What additional questions could we pose when using long established experiments?"
-
+keypoints:
+- "Most experiments are not long term compared to this LTEE experiment, however it does allow us to perform additional analyses we are not able to do with shorter term experiments."
+- "For experiments such as this, where measurements are taken over a long time course, making sure all record keeping is up to date stops the data from being redundant."
 ---
 
 
