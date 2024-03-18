@@ -1,6 +1,6 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10834141.svg)](https://doi.org/10.5281/zenodo.10834141)
 
-## Principles of Experimental Design
+## Experimental Design Case Studies
 
 In these three episodes we will be looking at case studies and looking at how these are good or bad examples of experimental designs. We will be covering an RNAseq example, an anerobic digestion metabolomics example and we will also be covering the LTEE dataset.
 
