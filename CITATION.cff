@@ -1,0 +1,14 @@
+cff-version: 1.1.0
+message: "If you reuse this training material, please cite it as below."
+authors:
+- family-names: "Forrester"
+  given-names: "Sarah"
+  orcid: "https://orcid.org/0000-0001-8332-7196"
+- family-names: "Rand"
+  given-names: "Emma"
+  orcid: "https://orcid.org/0000-0002-1358-8275"
+title: "Cloud-SPAN Statistically Useful Experimental Design: Case Studies"
+version: 1.0.0
+doi: 10.5281/zenodo.10834141
+date-released: 2022-09-01
+url: "https://cloud-span.github.io/experimental_design02-case-study/"
